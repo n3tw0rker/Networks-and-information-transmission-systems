@@ -1,2 +1,2 @@
-# Networks-and-information-transmission-systems
+SiSPi
 отчёты лабороторынх по СИСПИ
